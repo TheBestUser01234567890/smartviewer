@@ -1,0 +1,2 @@
+For the uncompressed code (This code is compressed as some services that use Git limit the files), see largezip/largezip_1_uncompressed
+For the compressed code (This code is compressed as some services that use Git limit the files), see largezip/largezip_1.zip
